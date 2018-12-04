@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-router-js",
+  "version": "0.0.5",
+  "description": "Simple Javascript Router",
+  "main": "Router.js",
+  "scripts": {
+    "start": "npm run build",
+    "build": "webpack  --config webpack.config.js"
+  },
+  "keywords": [
+    "router",
+    "vanillarouter"
+  ],
+  "author": "Leif Arriens",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^3.7.0"
+  }
+}
