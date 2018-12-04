@@ -1,6 +1,6 @@
 {
   "name": "vanilla-router-js",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Simple Javascript Router",
   "main": "Router.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "vanillarouter"
   ],
   "author": "Leif Arriens",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "animate.css": "^3.7.0"
   }
