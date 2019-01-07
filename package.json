@@ -5,7 +5,7 @@
   "main": "Router.js",
   "scripts": {
     "start": "npm run build",
-    "build": "webpack  --config webpack.config.js"
+    "build": "parcel build Router.js --no-source-maps --no-cache --global Router --out-file Router.min.js --out-dir ./"
   },
   "keywords": [
     "router",
